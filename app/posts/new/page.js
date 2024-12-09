@@ -1,9 +1,9 @@
 import React from 'react'
 
-function newpost() {
+function page() {
   return (
     <div>NEW POST</div>
   )
 }
 
-export default newpost
+export default page
